@@ -1,4 +1,4 @@
-# Hi, I'm Ilia Pinsker 👋 
+# Hi, I'm Elijah Pinsker 👋 
 **Audio Engineering & Post-Production Lead**
 
 While this GitHub profile might look quiet, my day-to-day version control happens elsewhere. 
